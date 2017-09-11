@@ -51,4 +51,5 @@
     <string name="message">I would like to order the following :</string>
     <string name="product_name_title">Product\'s Name:</string>
     <string name="thank">Thanks in advance.</string>
+    <string name="in_stock">In Stock:</string>
 </resources>
